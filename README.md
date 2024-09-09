@@ -1,7 +1,8 @@
 # TAFILAT Dataset: Comprehensive Solution Space for Arabic Poetic Meters
 
-![TAFILAT Logo](path/to/logo.png)
-
+ <p align="center"> 
+ <img src = "https://raw.githubusercontent.com/droaas/test1/main/images/TafilatLogo.png" width = "200px"/>
+ </p>
 *A complete dataset offering all possible patterns for Arabic poetic meters, meticulously curated from classical prosody sources. Designed to automate and enhance research in Arabic meter classification and poetry generation.*
 
 ## Table of Contents
